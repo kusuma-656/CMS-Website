@@ -24,11 +24,6 @@ else{
     echo 'Could not prepare Statement!';
 }
 }
-    
-
-
-
-    
 
 ?>
 
